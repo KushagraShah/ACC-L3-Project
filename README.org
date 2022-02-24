@@ -1,6 +1,8 @@
 #+OPTIONS: toc:nil author:nil
 #+TITLE: The L₃ project
 
+Re-uploaded files for the Advanced Compiler Construction (CS-420) course at EPFL.
+
 Welcome to the L₃ project, composed of an L₃ compiler, a virtual machine, a library and a few example programs. The directories are laid out as follows:
 
   - ~compiler~ :: contains the source code of the L₃ compiler,
